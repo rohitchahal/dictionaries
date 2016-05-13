@@ -1,3 +1,6 @@
+"""
+hi rohit
+"""
 sentence = input("enter any sentence:")
 frequency_words = {}
 words = sentence.split()
